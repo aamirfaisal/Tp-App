@@ -1,0 +1,16 @@
+export const IMAGES = {
+    backgroundImg: require('./Background.jpg'),
+    image1: require('./image1.jpg'),
+    image2: require('./image2.jpg'),
+    iamge3: require('./image3.jpg'),
+    NotFound: require('./NotFound.png'),
+    RefreshIcon: require('./Refresh.png'),
+    LeftArrow: require('./LeftArrow.png'),
+    SaveIcon: require('./SaveIcon.png'),
+    Pic: require('./Pic.png'),
+    location: require('./location.png'),
+    phone: require('./telephone.png'),
+    calender: require('./calendar.png'),
+    email: require('./mail.png'),
+    gender: require('./gender.png'),
+}
